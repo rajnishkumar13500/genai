@@ -1,3 +1,8 @@
 # AI_server
 
-server is working
+## setup the .evv files with 
+PORT 
+API_KEY
+
+## run the code
+npm run start
